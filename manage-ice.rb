@@ -1,4 +1,4 @@
-#!/bin/env ruby
+#!/usr/bin/env ruby
 BASE = File.expand_path(File.dirname(__FILE__))
 require File.join(BASE, "interfaces", "ice.rb")
 require File.join(BASE, 'helpers')

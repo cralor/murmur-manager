@@ -1,4 +1,4 @@
-#!/bin/env ruby
+#!/usr/bin/env ruby
 require 'interfaces/dbus'
 require 'helpers'
 
